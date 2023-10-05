@@ -3,7 +3,7 @@ import { View, StyleSheet, TouchableOpacity, FlatList } from "react-native";
 import CustomText from "../../../components/UI/CustomText";
 //Colors
 import Colors from "../../../utils/Colors";
-import Messages from "../../../messages/user";
+import Messages from "../../../messages/en/order";
 import OrderItem from "./OrderItem";
 //PropTypes check
 import PropTypes from "prop-types";

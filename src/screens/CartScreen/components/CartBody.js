@@ -15,7 +15,7 @@ import CustomText from "../../../components/UI/CustomText";
 //Colors
 import Colors from "../../../utils/Colors";
 import { CartItem } from "./CartItem";
-import Messages from "../../../messages/user";
+import Messages from "../../../messages/en/user";
 //PropTypes check
 import PropTypes from "prop-types";
 

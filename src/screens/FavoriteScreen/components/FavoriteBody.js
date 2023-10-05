@@ -5,7 +5,7 @@ import Colors from "../../../utils/Colors";
 //Text
 import CustomText from "../../../components/UI/CustomText";
 import { FavoriteItem } from "./FavoriteItem";
-import Messages from "../../../messages/user";
+import Messages from "../../../messages/en/cart";
 //PropTypes check
 import PropTypes from "prop-types";
 
